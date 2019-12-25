@@ -1,0 +1,2 @@
+[2019-10-17 00:29:46] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2019-10-17 00:29:46] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
